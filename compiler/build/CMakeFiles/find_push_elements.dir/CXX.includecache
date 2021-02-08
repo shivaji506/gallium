@@ -1,0 +1,44 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../include/llvm-incl.hpp
+llvm/IRReader/IRReader.h
+-
+llvm/IR/LLVMContext.h
+-
+llvm/IR/Module.h
+-
+llvm/Support/SourceMgr.h
+-
+llvm/Support/FileSystem.h
+-
+llvm/Support/raw_ostream.h
+-
+llvm/IR/InlineAsm.h
+-
+llvm/IR/Instructions.h
+-
+llvm/IR/InstrTypes.h
+-
+llvm/IR/Instruction.h
+-
+llvm/IR/InstVisitor.h
+-
+llvm/IR/DebugInfoMetadata.h
+-
+
+../include/llvm-load.hpp
+llvm-incl.hpp
+../include/llvm-incl.hpp
+unordered_map
+-
+
+/Gallium-public/compiler/exec/find_push_elements.cpp
+llvm-load.hpp
+/Gallium-public/compiler/exec/llvm-load.hpp
+

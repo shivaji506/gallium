@@ -1,0 +1,38 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../include/graph.hpp
+cassert
+-
+algorithm
+-
+iostream
+-
+vector
+-
+string
+-
+memory
+-
+optional
+-
+variant
+-
+utility
+-
+unordered_set
+-
+unordered_map
+-
+
+/Gallium-public/compiler/test/graph-test.cpp
+graph.hpp
+/Gallium-public/compiler/test/graph.hpp
+gtest/gtest.h
+/Gallium-public/compiler/test/gtest/gtest.h
+

@@ -1,0 +1,177 @@
+[
+{
+  "directory": "/Gallium-public/compiler/build",
+  "command": "/usr/sbin/c++ -DBOOST_ALL_NO_LIB -DBOOST_FILESYSTEM_DYN_LINK -I/Gallium-public/compiler/build -I/Gallium-public/compiler/include  -std=c++1z   -D_GNU_SOURCE -D__STDC_CONSTANT_MACROS -D__STDC_FORMAT_MACROS -D__STDC_LIMIT_MACROS -o CMakeFiles/libgallium.dir/src/hilvl-ir.cpp.o -c /Gallium-public/compiler/src/hilvl-ir.cpp",
+  "file": "/Gallium-public/compiler/src/hilvl-ir.cpp"
+},
+{
+  "directory": "/Gallium-public/compiler/build",
+  "command": "/usr/sbin/c++ -DBOOST_ALL_NO_LIB -DBOOST_FILESYSTEM_DYN_LINK -I/Gallium-public/compiler/build -I/Gallium-public/compiler/include  -std=c++1z   -D_GNU_SOURCE -D__STDC_CONSTANT_MACROS -D__STDC_FORMAT_MACROS -D__STDC_LIMIT_MACROS -o CMakeFiles/libgallium.dir/src/hir-common-pass.cpp.o -c /Gallium-public/compiler/src/hir-common-pass.cpp",
+  "file": "/Gallium-public/compiler/src/hir-common-pass.cpp"
+},
+{
+  "directory": "/Gallium-public/compiler/build",
+  "command": "/usr/sbin/c++ -DBOOST_ALL_NO_LIB -DBOOST_FILESYSTEM_DYN_LINK -I/Gallium-public/compiler/build -I/Gallium-public/compiler/include  -std=c++1z   -D_GNU_SOURCE -D__STDC_CONSTANT_MACROS -D__STDC_FORMAT_MACROS -D__STDC_LIMIT_MACROS -o CMakeFiles/libgallium.dir/src/hir-dpdkgen.cpp.o -c /Gallium-public/compiler/src/hir-dpdkgen.cpp",
+  "file": "/Gallium-public/compiler/src/hir-dpdkgen.cpp"
+},
+{
+  "directory": "/Gallium-public/compiler/build",
+  "command": "/usr/sbin/c++ -DBOOST_ALL_NO_LIB -DBOOST_FILESYSTEM_DYN_LINK -I/Gallium-public/compiler/build -I/Gallium-public/compiler/include  -std=c++1z   -D_GNU_SOURCE -D__STDC_CONSTANT_MACROS -D__STDC_FORMAT_MACROS -D__STDC_LIMIT_MACROS -o CMakeFiles/libgallium.dir/src/hir-p4.cpp.o -c /Gallium-public/compiler/src/hir-p4.cpp",
+  "file": "/Gallium-public/compiler/src/hir-p4.cpp"
+},
+{
+  "directory": "/Gallium-public/compiler/build",
+  "command": "/usr/sbin/c++ -DBOOST_ALL_NO_LIB -DBOOST_FILESYSTEM_DYN_LINK -I/Gallium-public/compiler/build -I/Gallium-public/compiler/include  -std=c++1z   -D_GNU_SOURCE -D__STDC_CONSTANT_MACROS -D__STDC_FORMAT_MACROS -D__STDC_LIMIT_MACROS -o CMakeFiles/libgallium.dir/src/hir-partition.cpp.o -c /Gallium-public/compiler/src/hir-partition.cpp",
+  "file": "/Gallium-public/compiler/src/hir-partition.cpp"
+},
+{
+  "directory": "/Gallium-public/compiler/build",
+  "command": "/usr/sbin/c++ -DBOOST_ALL_NO_LIB -DBOOST_FILESYSTEM_DYN_LINK -I/Gallium-public/compiler/build -I/Gallium-public/compiler/include  -std=c++1z   -D_GNU_SOURCE -D__STDC_CONSTANT_MACROS -D__STDC_FORMAT_MACROS -D__STDC_LIMIT_MACROS -o CMakeFiles/libgallium.dir/src/hir-pktop.cpp.o -c /Gallium-public/compiler/src/hir-pktop.cpp",
+  "file": "/Gallium-public/compiler/src/hir-pktop.cpp"
+},
+{
+  "directory": "/Gallium-public/compiler/build",
+  "command": "/usr/sbin/c++ -DBOOST_ALL_NO_LIB -DBOOST_FILESYSTEM_DYN_LINK -I/Gallium-public/compiler/build -I/Gallium-public/compiler/include  -std=c++1z   -D_GNU_SOURCE -D__STDC_CONSTANT_MACROS -D__STDC_FORMAT_MACROS -D__STDC_LIMIT_MACROS -o CMakeFiles/libgallium.dir/src/hir-stateop.cpp.o -c /Gallium-public/compiler/src/hir-stateop.cpp",
+  "file": "/Gallium-public/compiler/src/hir-stateop.cpp"
+},
+{
+  "directory": "/Gallium-public/compiler/build",
+  "command": "/usr/sbin/c++ -DBOOST_ALL_NO_LIB -DBOOST_FILESYSTEM_DYN_LINK -I/Gallium-public/compiler/build -I/Gallium-public/compiler/include  -std=c++1z   -D_GNU_SOURCE -D__STDC_CONSTANT_MACROS -D__STDC_FORMAT_MACROS -D__STDC_LIMIT_MACROS -o CMakeFiles/libgallium.dir/src/llvm-helpers.cpp.o -c /Gallium-public/compiler/src/llvm-helpers.cpp",
+  "file": "/Gallium-public/compiler/src/llvm-helpers.cpp"
+},
+{
+  "directory": "/Gallium-public/compiler/build",
+  "command": "/usr/sbin/c++ -DBOOST_ALL_NO_LIB -DBOOST_FILESYSTEM_DYN_LINK -I/Gallium-public/compiler/build -I/Gallium-public/compiler/include  -std=c++1z   -D_GNU_SOURCE -D__STDC_CONSTANT_MACROS -D__STDC_FORMAT_MACROS -D__STDC_LIMIT_MACROS -o CMakeFiles/libgallium.dir/src/llvm-load.cpp.o -c /Gallium-public/compiler/src/llvm-load.cpp",
+  "file": "/Gallium-public/compiler/src/llvm-load.cpp"
+},
+{
+  "directory": "/Gallium-public/compiler/build",
+  "command": "/usr/sbin/c++ -DBOOST_ALL_NO_LIB -DBOOST_FILESYSTEM_DYN_LINK -I/Gallium-public/compiler/build -I/Gallium-public/compiler/include  -std=c++1z   -D_GNU_SOURCE -D__STDC_CONSTANT_MACROS -D__STDC_FORMAT_MACROS -D__STDC_LIMIT_MACROS -o CMakeFiles/libgallium.dir/src/p4-ir.cpp.o -c /Gallium-public/compiler/src/p4-ir.cpp",
+  "file": "/Gallium-public/compiler/src/p4-ir.cpp"
+},
+{
+  "directory": "/Gallium-public/compiler/build",
+  "command": "/usr/sbin/c++ -DBOOST_ALL_NO_LIB -DBOOST_FILESYSTEM_DYN_LINK -I/Gallium-public/compiler/build -I/Gallium-public/compiler/include  -std=c++1z   -D_GNU_SOURCE -D__STDC_CONSTANT_MACROS -D__STDC_FORMAT_MACROS -D__STDC_LIMIT_MACROS -o CMakeFiles/libgallium.dir/src/pkt-layout.cpp.o -c /Gallium-public/compiler/src/pkt-layout.cpp",
+  "file": "/Gallium-public/compiler/src/pkt-layout.cpp"
+},
+{
+  "directory": "/Gallium-public/compiler/build",
+  "command": "/usr/sbin/c++ -DBOOST_ALL_NO_LIB -DBOOST_FILESYSTEM_DYN_LINK -I/Gallium-public/compiler/build -I/Gallium-public/compiler/include  -std=c++1z   -D_GNU_SOURCE -D__STDC_CONSTANT_MACROS -D__STDC_FORMAT_MACROS -D__STDC_LIMIT_MACROS -o CMakeFiles/libgallium.dir/src/utils.cpp.o -c /Gallium-public/compiler/src/utils.cpp",
+  "file": "/Gallium-public/compiler/src/utils.cpp"
+},
+{
+  "directory": "/Gallium-public/compiler/build",
+  "command": "/usr/sbin/c++ -DBOOST_ALL_NO_LIB -DBOOST_FILESYSTEM_DYN_LINK -I/Gallium-public/compiler/build -I/Gallium-public/compiler/include  -std=c++1z   -D_GNU_SOURCE -D__STDC_CONSTANT_MACROS -D__STDC_FORMAT_MACROS -D__STDC_LIMIT_MACROS -o CMakeFiles/test-partition.dir/exec/test-partition.cpp.o -c /Gallium-public/compiler/exec/test-partition.cpp",
+  "file": "/Gallium-public/compiler/exec/test-partition.cpp"
+},
+{
+  "directory": "/Gallium-public/compiler/build",
+  "command": "/usr/sbin/c++ -DBOOST_ALL_NO_LIB -DBOOST_FILESYSTEM_DYN_LINK -I/Gallium-public/compiler/build -I/Gallium-public/compiler/include  -std=c++1z   -D_GNU_SOURCE -D__STDC_CONSTANT_MACROS -D__STDC_FORMAT_MACROS -D__STDC_LIMIT_MACROS -o CMakeFiles/example-hir.dir/exec/example-hir.cpp.o -c /Gallium-public/compiler/exec/example-hir.cpp",
+  "file": "/Gallium-public/compiler/exec/example-hir.cpp"
+},
+{
+  "directory": "/Gallium-public/compiler/build",
+  "command": "/usr/sbin/c++ -DBOOST_ALL_NO_LIB -DBOOST_FILESYSTEM_DYN_LINK -I/Gallium-public/compiler/build -I/Gallium-public/compiler/include  -std=c++1z   -D_GNU_SOURCE -D__STDC_CONSTANT_MACROS -D__STDC_FORMAT_MACROS -D__STDC_LIMIT_MACROS -o CMakeFiles/test-p4-print.dir/exec/test-p4-print.cpp.o -c /Gallium-public/compiler/exec/test-p4-print.cpp",
+  "file": "/Gallium-public/compiler/exec/test-p4-print.cpp"
+},
+{
+  "directory": "/Gallium-public/compiler/build",
+  "command": "/usr/sbin/c++ -Dlibgalliumso_EXPORTS -I/Gallium-public/compiler/build -I/Gallium-public/compiler/include  -std=c++1z -fPIC   -D_GNU_SOURCE -D__STDC_CONSTANT_MACROS -D__STDC_FORMAT_MACROS -D__STDC_LIMIT_MACROS -o CMakeFiles/libgalliumso.dir/src/hilvl-ir.cpp.o -c /Gallium-public/compiler/src/hilvl-ir.cpp",
+  "file": "/Gallium-public/compiler/src/hilvl-ir.cpp"
+},
+{
+  "directory": "/Gallium-public/compiler/build",
+  "command": "/usr/sbin/c++ -Dlibgalliumso_EXPORTS -I/Gallium-public/compiler/build -I/Gallium-public/compiler/include  -std=c++1z -fPIC   -D_GNU_SOURCE -D__STDC_CONSTANT_MACROS -D__STDC_FORMAT_MACROS -D__STDC_LIMIT_MACROS -o CMakeFiles/libgalliumso.dir/src/hir-common-pass.cpp.o -c /Gallium-public/compiler/src/hir-common-pass.cpp",
+  "file": "/Gallium-public/compiler/src/hir-common-pass.cpp"
+},
+{
+  "directory": "/Gallium-public/compiler/build",
+  "command": "/usr/sbin/c++ -Dlibgalliumso_EXPORTS -I/Gallium-public/compiler/build -I/Gallium-public/compiler/include  -std=c++1z -fPIC   -D_GNU_SOURCE -D__STDC_CONSTANT_MACROS -D__STDC_FORMAT_MACROS -D__STDC_LIMIT_MACROS -o CMakeFiles/libgalliumso.dir/src/hir-dpdkgen.cpp.o -c /Gallium-public/compiler/src/hir-dpdkgen.cpp",
+  "file": "/Gallium-public/compiler/src/hir-dpdkgen.cpp"
+},
+{
+  "directory": "/Gallium-public/compiler/build",
+  "command": "/usr/sbin/c++ -Dlibgalliumso_EXPORTS -I/Gallium-public/compiler/build -I/Gallium-public/compiler/include  -std=c++1z -fPIC   -D_GNU_SOURCE -D__STDC_CONSTANT_MACROS -D__STDC_FORMAT_MACROS -D__STDC_LIMIT_MACROS -o CMakeFiles/libgalliumso.dir/src/hir-p4.cpp.o -c /Gallium-public/compiler/src/hir-p4.cpp",
+  "file": "/Gallium-public/compiler/src/hir-p4.cpp"
+},
+{
+  "directory": "/Gallium-public/compiler/build",
+  "command": "/usr/sbin/c++ -Dlibgalliumso_EXPORTS -I/Gallium-public/compiler/build -I/Gallium-public/compiler/include  -std=c++1z -fPIC   -D_GNU_SOURCE -D__STDC_CONSTANT_MACROS -D__STDC_FORMAT_MACROS -D__STDC_LIMIT_MACROS -o CMakeFiles/libgalliumso.dir/src/hir-partition.cpp.o -c /Gallium-public/compiler/src/hir-partition.cpp",
+  "file": "/Gallium-public/compiler/src/hir-partition.cpp"
+},
+{
+  "directory": "/Gallium-public/compiler/build",
+  "command": "/usr/sbin/c++ -Dlibgalliumso_EXPORTS -I/Gallium-public/compiler/build -I/Gallium-public/compiler/include  -std=c++1z -fPIC   -D_GNU_SOURCE -D__STDC_CONSTANT_MACROS -D__STDC_FORMAT_MACROS -D__STDC_LIMIT_MACROS -o CMakeFiles/libgalliumso.dir/src/hir-pktop.cpp.o -c /Gallium-public/compiler/src/hir-pktop.cpp",
+  "file": "/Gallium-public/compiler/src/hir-pktop.cpp"
+},
+{
+  "directory": "/Gallium-public/compiler/build",
+  "command": "/usr/sbin/c++ -Dlibgalliumso_EXPORTS -I/Gallium-public/compiler/build -I/Gallium-public/compiler/include  -std=c++1z -fPIC   -D_GNU_SOURCE -D__STDC_CONSTANT_MACROS -D__STDC_FORMAT_MACROS -D__STDC_LIMIT_MACROS -o CMakeFiles/libgalliumso.dir/src/hir-stateop.cpp.o -c /Gallium-public/compiler/src/hir-stateop.cpp",
+  "file": "/Gallium-public/compiler/src/hir-stateop.cpp"
+},
+{
+  "directory": "/Gallium-public/compiler/build",
+  "command": "/usr/sbin/c++ -Dlibgalliumso_EXPORTS -I/Gallium-public/compiler/build -I/Gallium-public/compiler/include  -std=c++1z -fPIC   -D_GNU_SOURCE -D__STDC_CONSTANT_MACROS -D__STDC_FORMAT_MACROS -D__STDC_LIMIT_MACROS -o CMakeFiles/libgalliumso.dir/src/llvm-helpers.cpp.o -c /Gallium-public/compiler/src/llvm-helpers.cpp",
+  "file": "/Gallium-public/compiler/src/llvm-helpers.cpp"
+},
+{
+  "directory": "/Gallium-public/compiler/build",
+  "command": "/usr/sbin/c++ -Dlibgalliumso_EXPORTS -I/Gallium-public/compiler/build -I/Gallium-public/compiler/include  -std=c++1z -fPIC   -D_GNU_SOURCE -D__STDC_CONSTANT_MACROS -D__STDC_FORMAT_MACROS -D__STDC_LIMIT_MACROS -o CMakeFiles/libgalliumso.dir/src/llvm-load.cpp.o -c /Gallium-public/compiler/src/llvm-load.cpp",
+  "file": "/Gallium-public/compiler/src/llvm-load.cpp"
+},
+{
+  "directory": "/Gallium-public/compiler/build",
+  "command": "/usr/sbin/c++ -Dlibgalliumso_EXPORTS -I/Gallium-public/compiler/build -I/Gallium-public/compiler/include  -std=c++1z -fPIC   -D_GNU_SOURCE -D__STDC_CONSTANT_MACROS -D__STDC_FORMAT_MACROS -D__STDC_LIMIT_MACROS -o CMakeFiles/libgalliumso.dir/src/p4-ir.cpp.o -c /Gallium-public/compiler/src/p4-ir.cpp",
+  "file": "/Gallium-public/compiler/src/p4-ir.cpp"
+},
+{
+  "directory": "/Gallium-public/compiler/build",
+  "command": "/usr/sbin/c++ -Dlibgalliumso_EXPORTS -I/Gallium-public/compiler/build -I/Gallium-public/compiler/include  -std=c++1z -fPIC   -D_GNU_SOURCE -D__STDC_CONSTANT_MACROS -D__STDC_FORMAT_MACROS -D__STDC_LIMIT_MACROS -o CMakeFiles/libgalliumso.dir/src/pkt-layout.cpp.o -c /Gallium-public/compiler/src/pkt-layout.cpp",
+  "file": "/Gallium-public/compiler/src/pkt-layout.cpp"
+},
+{
+  "directory": "/Gallium-public/compiler/build",
+  "command": "/usr/sbin/c++ -Dlibgalliumso_EXPORTS -I/Gallium-public/compiler/build -I/Gallium-public/compiler/include  -std=c++1z -fPIC   -D_GNU_SOURCE -D__STDC_CONSTANT_MACROS -D__STDC_FORMAT_MACROS -D__STDC_LIMIT_MACROS -o CMakeFiles/libgalliumso.dir/src/utils.cpp.o -c /Gallium-public/compiler/src/utils.cpp",
+  "file": "/Gallium-public/compiler/src/utils.cpp"
+},
+{
+  "directory": "/Gallium-public/compiler/build",
+  "command": "/usr/sbin/c++ -DBOOST_ALL_NO_LIB -DBOOST_FILESYSTEM_DYN_LINK -I/Gallium-public/compiler/build -I/Gallium-public/compiler/include  -std=c++1z   -D_GNU_SOURCE -D__STDC_CONSTANT_MACROS -D__STDC_FORMAT_MACROS -D__STDC_LIMIT_MACROS -o CMakeFiles/test-dpdkgen.dir/exec/test-dpdkgen.cpp.o -c /Gallium-public/compiler/exec/test-dpdkgen.cpp",
+  "file": "/Gallium-public/compiler/exec/test-dpdkgen.cpp"
+},
+{
+  "directory": "/Gallium-public/compiler/build",
+  "command": "/usr/sbin/c++ -DBOOST_ALL_NO_LIB -DBOOST_FILESYSTEM_DYN_LINK -I/Gallium-public/compiler/build -I/Gallium-public/compiler/include  -std=c++1z   -D_GNU_SOURCE -D__STDC_CONSTANT_MACROS -D__STDC_FORMAT_MACROS -D__STDC_LIMIT_MACROS -o CMakeFiles/example-codegen.dir/exec/example-codegen.cpp.o -c /Gallium-public/compiler/exec/example-codegen.cpp",
+  "file": "/Gallium-public/compiler/exec/example-codegen.cpp"
+},
+{
+  "directory": "/Gallium-public/compiler/build",
+  "command": "/usr/sbin/c++ -DBOOST_ALL_NO_LIB -DBOOST_FILESYSTEM_DYN_LINK -I/Gallium-public/compiler/build -I/Gallium-public/compiler/include  -std=c++1z   -D_GNU_SOURCE -D__STDC_CONSTANT_MACROS -D__STDC_FORMAT_MACROS -D__STDC_LIMIT_MACROS -o CMakeFiles/find_push_elements.dir/exec/find_push_elements.cpp.o -c /Gallium-public/compiler/exec/find_push_elements.cpp",
+  "file": "/Gallium-public/compiler/exec/find_push_elements.cpp"
+},
+{
+  "directory": "/Gallium-public/compiler/build",
+  "command": "/usr/sbin/c++ -DBOOST_ALL_NO_LIB -DBOOST_FILESYSTEM_DYN_LINK -I/Gallium-public/compiler/build -I/Gallium-public/compiler/include  -std=c++1z   -D_GNU_SOURCE -D__STDC_CONSTANT_MACROS -D__STDC_FORMAT_MACROS -D__STDC_LIMIT_MACROS -o CMakeFiles/graph-test.dir/test/graph-test.cpp.o -c /Gallium-public/compiler/test/graph-test.cpp",
+  "file": "/Gallium-public/compiler/test/graph-test.cpp"
+},
+{
+  "directory": "/Gallium-public/compiler/build",
+  "command": "/usr/sbin/c++ -DBOOST_ALL_NO_LIB -DBOOST_FILESYSTEM_DYN_LINK -I/Gallium-public/compiler/build -I/Gallium-public/compiler/include  -std=c++1z   -D_GNU_SOURCE -D__STDC_CONSTANT_MACROS -D__STDC_FORMAT_MACROS -D__STDC_LIMIT_MACROS -o CMakeFiles/example-labeling.dir/exec/example-labeling.cpp.o -c /Gallium-public/compiler/exec/example-labeling.cpp",
+  "file": "/Gallium-public/compiler/exec/example-labeling.cpp"
+},
+{
+  "directory": "/Gallium-public/compiler/build",
+  "command": "/usr/sbin/c++ -DBOOST_ALL_NO_LIB -DBOOST_FILESYSTEM_DYN_LINK -I/Gallium-public/compiler/build -I/Gallium-public/compiler/include  -std=c++1z   -D_GNU_SOURCE -D__STDC_CONSTANT_MACROS -D__STDC_FORMAT_MACROS -D__STDC_LIMIT_MACROS -o CMakeFiles/example-partition.dir/exec/example-partition.cpp.o -c /Gallium-public/compiler/exec/example-partition.cpp",
+  "file": "/Gallium-public/compiler/exec/example-partition.cpp"
+},
+{
+  "directory": "/Gallium-public/compiler/build",
+  "command": "/usr/sbin/c++ -DBOOST_ALL_NO_LIB -DBOOST_FILESYSTEM_DYN_LINK -I/Gallium-public/compiler/build -I/Gallium-public/compiler/include  -std=c++1z   -D_GNU_SOURCE -D__STDC_CONSTANT_MACROS -D__STDC_FORMAT_MACROS -D__STDC_LIMIT_MACROS -o CMakeFiles/gallium.dir/exec/gallium.cpp.o -c /Gallium-public/compiler/exec/gallium.cpp",
+  "file": "/Gallium-public/compiler/exec/gallium.cpp"
+},
+{
+  "directory": "/Gallium-public/compiler/build",
+  "command": "/usr/sbin/c++ -DBOOST_ALL_NO_LIB -DBOOST_FILESYSTEM_DYN_LINK -I/Gallium-public/compiler/build -I/Gallium-public/compiler/include  -std=c++1z   -D_GNU_SOURCE -D__STDC_CONSTANT_MACROS -D__STDC_FORMAT_MACROS -D__STDC_LIMIT_MACROS -o CMakeFiles/test-codegen.dir/exec/test-codegen.cpp.o -c /Gallium-public/compiler/exec/test-codegen.cpp",
+  "file": "/Gallium-public/compiler/exec/test-codegen.cpp"
+}
+]
